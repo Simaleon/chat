@@ -1,0 +1,12 @@
+{
+  "database": {
+    "host": "localhost",
+    "database": "colloq",
+    "port": 5432,
+    "user": "postgres",
+    "password": "zxzxzx123"
+  },
+  "server": {
+    "port": 3000
+  }
+}
